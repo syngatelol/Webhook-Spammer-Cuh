@@ -2,6 +2,7 @@ import discord
 import random
 import asyncio
 from colorama import init, Fore
+  # .gg/eviction
 
 # Initialize colorama
 init()
